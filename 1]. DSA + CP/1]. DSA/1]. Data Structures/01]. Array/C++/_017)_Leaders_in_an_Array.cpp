@@ -1,7 +1,7 @@
 #include<iostream>
 using namespace std;
 
-int leaders(int arr[], int n)
+void leaders(int arr[], int n)
 {
     for(int i=0; i<n; i++)
     {
